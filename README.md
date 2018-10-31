@@ -12,3 +12,4 @@ gulp
 
 # 使用说明
 * 请求地址前 加上 /mock/ 通过 任意方式代理到 locahost:3010 上即可完成
+* mock文件名说明：例如请求为 xxx/xxx/xxx   文件名必须为  xxx_xxx_xxx.js
